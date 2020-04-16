@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qtquickcontrols2.conf</file>
+        <file>positioning-and-location.qml</file>
+        <file>pages/PositioningPage.qml</file>
+        <file>pages/MapPage.qml</file>
+        <file>graphics/footprints.svg</file>
+        <file>assets/ValueDisplay.qml</file>
+        <file>assets/NmeaPositionSource.qml</file>
+        <file>assets/Footprints.qml</file>
+        <file>assets/MapQuickCircle.qml</file>
+    </qresource>
+</RCC>

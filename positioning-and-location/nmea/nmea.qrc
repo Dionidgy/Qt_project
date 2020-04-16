@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/nmea">
+        <file>path.nmea</file>
+    </qresource>
+</RCC>
